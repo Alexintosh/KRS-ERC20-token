@@ -33,6 +33,3 @@ $ npm start
 
 ## Use Infura for deployment
 * [USING INFURA](http://truffleframework.com/tutorials/using-infura-custom-provider)
-
-## Use Infura for deployment
-* [USING INFURA](http://truffleframework.com/tutorials/using-infura-custom-provider)
